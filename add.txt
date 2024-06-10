@@ -1,0 +1,1 @@
+The above command is added to the git staging area, but yet it cannot be shared on the version control system. A commit operation is needed to share it.
